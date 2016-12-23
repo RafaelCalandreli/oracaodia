@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Oração do Dia</string>
+    <string name="texto_frase_dia">Nova Oração</string>
+    <string name="texto_nova_frase">40sp</string>
+    <string name="texto_novo_titulo" />
+    <string name="titulo_tela_inicial">Faça agora mesmo uma oração</string>
+</resources>
